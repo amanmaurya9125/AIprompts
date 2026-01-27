@@ -14,7 +14,7 @@
         android:theme="@style/Theme.App.Splash">
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-1983047725791798~1478938820"/>
+            android:value="ca-app-pub-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
         <activity
             android:name=".MainActivity"
             android:screenOrientation="portrait"
