@@ -18,7 +18,7 @@ class InterstitialAdManager(private val context: Context) {
         if (isdebug) {
             "ca-app-pub-3940256099942544/1033173712" // TEST
         } else {
-            "ca-app-pub-1983047725791798/6427356634" // REAL
+            "ca-app-pub-xxxxxxxxxxxxxxxxxxxxxxxxxxx" // REAL
         }
     }
 
