@@ -1,0 +1,886 @@
+[
+  {
+    "id": "1",
+    "title": "Men",
+    "prompt": "Modify the attached image of a man sitting on a bright white surface, angled towards the viewer. He is wearing a cream, short-sleeved shirt over a brown T-shirt, paired with dark brown, wide-legged trousers. Accessories include a small black beaded necklace and a silver watch. He has short, curly brown hair and a neutral expression, looking slightly upwards. His body appears slim. One leg is bent, with a large, light gray and white sneaker in front, creating a forced perspective. The other leg is also bent and is to the right. The lighting is bright and even, casting a subtle shadow of the shoe on the white surface. The composition is a low-angle shot, emphasizing the height and volume of the shoe, giving a sense of depth. The atmosphere is clean and simple, with a touch of contemporary fashion. Image resolution above 4k.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766574050/1_xvtdke.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Men",
+    "prompt": "Transform my uploaded photo into a hyper-realistic golden hour portrait. Keep my original face and expression exactly the same. Place me standing confidently in a vibrant wildflower field with snow-capped mountains in the background. I should be wearing white linen trousers and a white shirt with the top buttons open. My arms are stretched outward, and I’m gazing slightly to the side, giving a calm and confident look. The sunlight should softly highlight my skin and hair, creating a cinematic golden glow. The whole atmosphere should feel peaceful and natural, blending human presence with nature’s beauty.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766575057/Nature1_wqetkf.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Girl",
+    "prompt": "A beautiful, confident woman wearing a black suit sits elegantly on a luxurious white chair that highlights her slim, graceful figure. Her right hand rests gently beneath her chin, with her chin slightly raised in a pose of self-assurance. Her head tilts subtly to the right, eyes steady and looking forward with confidence. Her facial features glow under high-quality cinematic lighting, enhancing her natural beauty. The background is pure white, featuring a rare art painting and soft, cinematic illumination. Beside the chair stands a unique white table topped with a black coffee cup and a stylish lamp decor, creating a refined and elegant atmosphere.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766575445/ea94fd16-911b-48a3-a3e8-52da6f4019f7.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Men",
+    "prompt": "Studio portrait of a confident man sitting on a modern beige armchair with wooden legs, leaning slightly forward with his hands together. He wears a dark navy blue dress shirt with the top buttons open, light beige slim-fit pants, and black loafers with tan soles. He has short dark brown hair styled with texture, a trimmed full beard, tanned skin, and an intense confident gaze directed at the camera. The background is minimalist light gray with a smooth gradient, evenly lit with soft natural studio lighting. The mood is cinematic and fashion editorial, with high realism and fine details. Shot with a 50mm lens at f/2.8, vertical framing, full-body composition. The subject from the uploaded image, maintaining the exact real face, hairstyle, skin tone, and body identity unchanged.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766576030/0676003d-a722-4940-80d8-235f0a3b66cf.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Wild Life",
+    "prompt": "Create a realistic and emotional scene showing a man (use the provided image for accurate facial features) and a lion face to face in a moment of connection and respect. The man's eyes are closed, with a serene expression, while the lion gently rests its forehead and muzzle against his, conveying trust and a spiritual bond.\nBoth are standing on ground covered in light snow, with snowflakes gently falling. The man wears a dark coat and hair slightly tousled by the wind, and the lion displays a thick, majestic mane.\nIn the background, a cold, misty natural landscape with blurred mountains and gray tones reinforces the calm and powerful atmosphere.\nThe lighting is soft and diffuse, highlighting the textures of the skin, fur, and coat, creating a cinematic and poetic atmosphere.\nThe composition should convey friendship, courage, and harmony between man and nature.\n\nSuggested settings:\nStyle: Ultra-realistic, cinematic, 8K\nLighting: Soft, diffuse, natural winter light\nCamera: Medium close-up, focus on expressions\nEmotion: Connection, respect, tranquility\nSetting: Falling snow, blurred background with mountains.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766578646/d3bf2cc2-bb0b-4097-89a2-a43ba42019a6.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Girl",
+    "prompt": "Maintain the same face and person (use attached photo for accurate face Hyper-realistic cinematic Create an 8k photorealistic image using the attached photo. A close-up portrait of a woman with long, jet-black, slightly wind-swept hair falling across her face. Her striking, light-colored eyes gaze upwards and to the right, catching a sharp, diagonal beam of natural light that illuminates the high points of her cheekbone, nose, and plump, glossy, mauve-toned lips a slightly light weight silk.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766578909/971d1752-5f01-423b-8811-6f3072d1c880.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Men",
+    "prompt": "A man with a beard and short dark hair is captured in a striking portrait, illuminated by dramatic dual-colored lighting. His face is split, with one side bathed in a cool blue light and the other in a vibrant pink/red hue, creating a high-contrast and neon-like effect. He gazes directly at the viewer with a thoughtful or pensive expression, his left hand resting on his chin. He is wearing a dark t-shirt and a watch on his left wrist. The background is dark and indistinct, further emphasizing the colorful illumination on his face and upper body.\nDO NOT CHANGE THE FACE.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766579305/158e53bc-bbe7-4194-8c7f-f0db0e72347f.png",
+    "category": [
+      "Men",
+      "Trending"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Girl",
+    "prompt": "Create an 8K ultra-realistic portrait of an Indian woman wearing a vibrant all-red, v-shape tie-front crop top,textured midriff-baring outfit with a loose, tied sarong-style bottom. Her brown black wavy hair with high bun. (use same face as uploaded photo) She has long, wind-blown hair and is adorned with intricate stone gold jewelry. She poses with confident introspection, one hand gently resting on her neck, revealing The setting is a bright tropical environment. Focus on textures,warm tones,and fine art photographic quality.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766580024/42ba6060-e4a2-4ff6-a6ef-d5cadc8d1783.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Girl",
+    "prompt": "A fantasy photograph with a fairytale and magical aesthetic, capturing a child (a girl) dressed as a princess. The subject stands facing the camera with a wide, adorable smile, conveying joy and innocence. She holds in both hands a glass dome containing a single red rose, which appears to be enchanted.\n\nShe wears a stunning princess gown in a vibrant shade of golden yellow, with a fitted bodice and a very voluminous, flowing skirt adorned with sparkles and floral appliqués, reminiscent of Belle from Beauty and the Beast. On her head is a small, sparkling golden crown.\n\nHer hair is dark and long, swept to the side or tied in a high ponytail, with straight bangs framing her face.\n\nThe background is a grand, bright castle hall, with arched windows revealing a soft, golden light, creating a magical and warm atmosphere. The lighting is studio-style, soft, and directional, highlighting the details of the dress and the sparkle of the crown, as well as giving a magical spotlight to the enchanted rose.\n\nInstructions for the \"nano banana\":\n\n\"Please use the user's reference image to capture and apply all of their facial features, facial structure, eye color, skin tone, hair style, and color as accurately as possible, assuming the gender and age of the child in the reference photo. The goal is to create a version of the user (as a child) in this fairytale setting. The clothing (golden-yellow princess dress, crown), the enchanted rose in the dome, the cheerful and smiling pose, the magical lighting, and the castle hall background should be created as described, creating a perfect fusion between the user's (child's) identity and the aesthetics of the image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766583276/8948d879-0f29-42a1-b284-6980d37a069e.png",
+    "category": [
+      "New",
+      "Trending",
+      "Girl"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Men",
+    "prompt": "A full-length studio photograph capturing a male figure with a relaxed, musical presence. The subject sits on a tall wooden stool, turned slightly to the right, his gaze focused downward on his hands and guitar, immersed in the music.\nHe wears a long-sleeved black dress shirt with the top buttons undone, creating a casual neckline. The sleeves are rolled up at the elbows, revealing detailed tattoos on his forearm. Light or mid-blue jeans that fit comfortably complete the look, adding a casual touch. Multiple thin necklaces and a discreet earring can adorn the look.\n\nHe holds an acoustic guitar with a glossy black body and light accents on the neck, positioned comfortably for playing. His hands are actively plucking the strings and fretboard, conveying authenticity.\n\nHis hair is dark and neat, with a subtle quiff and shorter sides. A well-groomed beard frames his face.\nThe background is a very light white or gray studio backdrop, uniform and undistracting, allowing the subject and the guitar to stand out clearly. The lighting is soft and even, typical of a professional studio, coming from a frontal-upward angle, creating very soft shadows that shape the body and the instrument, highlighting textures without being harsh. Studio lighting with one or two large softboxes as key lights, positioned in front of and slightly to the sides of the subject for even, flattering lighting. Please use the user's reference image to capture and apply all of their facial features, facial structure, hair and beard style, eye color, and skin tone as accurately as possible. The goal is to create a version of the user in this music studio portrait. The clothing (black dress shirt with rolled-up sleeves, jeans), arm tattoos, accessories (necklaces, earrings), black acoustic guitar, seated playing pose, focused expression, soft lighting, and uniform white background should be created as described, creating a perfect fusion between the user's identity and the aesthetics of the image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766583527/b4e76c54-c8e3-40cd-a8b7-cf5454159420.png",
+    "category": [
+      "New",
+      "Trending"
+    ]
+  },
+  {
+    "id": "11",
+    "title": "Men",
+    "prompt": "A realistic cinematic 8K portrait of a  man, using 100% of the same face and hairstyle from the uploaded reference image, reclining confidently against a glossy black Mercedes G-Wagon with hazy mountains fading in the background. He is dressed in dark trousers and a black frock coat layered over a linen shirt, paired with polished black partywear shoes that complete his refined yet bold look. He wears rectangular sunglasses, adding a modern edge to his sophisticated style. One knee is bent as he leans casually against the hood of the sleek vehicle, exuding calm confidence and effortless cool. The atmosphere is moody yet elegant, bathed in soft amber light that enhances the contours of his face and outfit while casting a cinematic glow across the scene. The tone evokes a rebellious 18th-century spirit reimagined in a contemporary setting, rich in detail, ultra-realistic texture, and high-fashion energy.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766584184/49050e8b-c42e-4e4b-8169-8703e29ad14d.png",
+    "category": [
+      "Trending",
+      "Car"
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Couple",
+    "prompt": "Ultra-realistic warm cinematic portrait. Couple sitting barefoot on wooden floor against wood panels .\nUse exact faces from uploaded selfies (man =\nBimg1, woman = Gimg2). No retouching.\nPose: side-profile, heads close, gentle affectionate smiles, cozy and kind mood.\nWardrobe:\n• Woman: oversized pink hoodie + cream home pants\n• Man: oversized soft light-blue hoodie + gray pants/shorts\nMinimal jewelry, barefoot.\nCamera/Light: ground-level 35mm, f/2.0, ISO\n400, 1/200s, SRGB.\nSoft window key (45° left), subtle fill, slight negative fill right.\nWarm filmic grade, matte shadows, fine grain, subtle vignette.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766585074/d0188e04-41e0-44cd-823d-8f5a9fb2928f.png",
+    "category": [
+      "Couple"
+    ]
+  },
+  {
+    "id": "13",
+    "title": "Girl",
+    "prompt": "Use the facial feature of the attached photo. A sophisticated fashion portrait of a woman standing in an open, sunlit courtyard surrounded by tall, textured stone walls. She wears an exquisite white couture gown adorned with oversized petal-like appliqués and intricate beadwork that cascade from the bodice to the train. The gown's voluminous texture creates a sculptural, ethereal silhouette, glowing softly under the natural sunlight. The atmosphere is serene and regal, emphasizing elegance, artistry, and minimalism. Her posture exudes quiet confidence and timeless grace, while the neutral stone backdrop contrasts beautifully with the purity and luminosity of the gown.\n\nScale Ratio: 9:16 (vertical orientation for full-body fashion composition)\nCamera Angle: Slightly low angle to accentuate the gown's volume and\nelongate the subject's form\nFocal Length: 85mm\nAperture: f/2.5\nShutter Speed: 1/400s\nISO: 100\nLighting: Direct natural light with soft diffusion, creating gentle shadows and dimensional highlights\nColor Tone: Warm neutral tone, soft whites, beige, and golden light reflections for a high-fashion editorial look\nFocus: Sharp on the subject's upper body and gown texture, with gradual softness toward the stone background\nEnvironment: Minimalist architectural courtyard with stone textures and golden sunlight, creating a modern yet timeless atmosphere.\nUse The Face From The Uploaded Reference Image And Preserve The Same Facial Features - Do Not Alter The Face. And Keep My Face 100% Accurate As Shown On Reference Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766585120/27a27a79-d036-4ce5-b5cb-3f8c873961b4.png",
+    "category": [
+      "Trending",
+      "Girl"
+    ]
+  },
+
+  {
+    "id": "14",
+    "title": "Girl",
+    "prompt": "A hyper-realistic, natural-looking portrait of a beautiful woman standing in the snow, gently placing her white winter hat on a snowman. Her long, wavy black hair moves naturally in the cold air. Her facial features are realistic and unretouched, with a slightly red and cold-touched nose from the winter chill, faint rosy cheeks, subtle breath visible in the air, and natural skin texture with fine pores. Her expression is soft, warm, and candid. She wears a simple winter coat and scarf, lightly dusted with snow. The environment feels authentic and unposed: overcast winter light, soft shadows, muted colors, shallow depth of field, and gentle snowfall. Ultra-detailed skin realism, lifelike hands and fabric textures, true-to-life proportions, photographic realism, high-resolution, 8K, hyper-real, cinematic yet natural lighting, emotionally realistic winter atmosphere.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766585494/a0e181e0-ecb8-4cba-9853-59403465af2a.png",
+    "category": [
+      "Trending",
+      "Girl"
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Girl",
+    "prompt": "4K ultra realistic full body photo of a young Indian woman (same as uploaded image 100% match) as Radha, standing gracefully in front of Prem Mandir Temple, Mathura. She is wearing an elegant heavy white pink and Golden gown with Golden embroidery and a vibrant transparent matching duppata with golden designs, draped gracefully over one shoulder. She has flowers tucked in her hair and neck as golden jewelry, traditional ornaments, and holds peacock feathers and Krishna's Whistle.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766671037/ccfe0491-3989-418c-9679-4eb43b2edece.png",
+    "category": [
+      "Girl",
+      "New"
+    ]
+  },
+  {
+    "id": "16",
+    "title": "Girl",
+    "prompt": "A young woman in a pastel lavender lehenga choli with delicate silver thread embroidery and pearl beadwork, paired with a soft organza dupatta in lilac and blush gradients.\n\nJewelry includes pastel gemstone chokers, a crescent moon pearl maang tikka, and soft crystal bangles. Her long hair flows with braided sections decorated with small roses and a peacock feather. She cradles a peacock gracefully in both arms, exuding tenderness. Makeup is subtle with rosy tones and ethereal highlights. Captured outdoors with a Sony A7R, 85mm lens, pastel cinematic grading, dreamy bokeh of blurred cherry blossoms behind her, creating a serene divine atmosphere.\n\nModify my uploaded photo according to this.Use 100% Uploaded Image Face.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766672333/46882156-5dcf-4f84-9ca1-e04d9ad38393.png",
+    "category": [
+      "Trending",
+      "Girl",
+      "New"
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Girl",
+    "prompt": "Young woman in traditional divine-inspired attire, wearing a sheer silver and maroon saree draped over a red blouse. Adorned with layered pearl necklaces, pearl earrings, and multiple red and white bangles. On her head, a floral crown of pastel pink and lavender blossoms with small green leaves, along with a golden maang tikka. Vine designs painted across forehead for a spiritual aesthetic. Holding several long peacock feathers with shimmering blue-green eyespots in one hand. She has dakr hairs with braids flowing naturally beneath the floral crown. Pose: upper body angled slightly to the side, shoulders relaxed, hand delicately holding feathers near face.Captured with a 50mm lens at f/2.0.   Modify my uploaded photo according to this.Use 100% Uploaded Image Face.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766672393/2c8dda11-22c7-484b-804b-c832ebc019de.png",
+    "category": [
+      "Trending",
+      "Girl",
+      "New"
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Men",
+    "prompt": "A cinematic portrait of me, keeping my real face unchanged. I’m walking on a city street at night holding a transparent umbrella, with reflections of colorful lights bouncing off wet asphalt. My face glows softly under the umbrella light, expression calm and steady. I wear a dark green shirt with rolled sleeves and black trousers — minimal, elegant, and confident. The camera captures me from a low angle, framed waist-up, with a rich cinematic bokeh. Style: night editorial portrait, rain reflections, soft cinematic realism, modern fashion tone.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766585463/d2194e0c-6b45-40db-b97f-5e5f27574c43.png",
+    "category": [
+      "Men",
+      "New"
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Stranger",
+    "prompt": "A dramatic, ultra-realistic Stranger Things-style character portrait. Use the same face as the reference image keep the facial feature 109%reserved, in- brown-and-white varsity jacket. She stands before an old green WEL-COME TO HAWKINS sign, turning her head toward the camera with a seri-ous, suspicious look. The sky is dark red and stormy with swirling clouds, lightning, fog, and floating particles.Large Demogorgon-like shadow ten-tacles curl around the sign. Strong rim-light from lightning highlights her hair and jacket. Deep reds, blacks, and electrig whites; cinematic, super-natural atmosphere; volumetric lighting; poster-style 8K quality.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766686231/b3877ba5-b7d5-4b32-951d-3583c0607229.png",
+    "category": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Couple",
+    "prompt": "Ultra-realistic 8K cinematic full-body portrait of a stylish thin man standing barefoot outdoors in front of the new Prem Mandir, Vrindavan, captured in bright daylight with clear blue sky and natural sunlight highlighting the temple's white marble architecture. Use the uploaded photo exactly the original face and body shape of the man must remain unchanged, enhanced with ultra-HD detailing. His hairstyle must be identical to the uploaded reference, perfectly styled and set. The man is wearing black fit cargo pants, a crisp white woolen full-sleeve T-shirt, and a black muffler draped stylishly. He is standing with one leg crossed slightly in front of the other, one hand adjusting the black muffler in a fashionable way, body relaxed yet stylish.\n\nattire Beside him stands his beautiful girlfriend, dressed in elegant traditional Indian a richly embroidered red and gold lehenga-choli (or a graceful saree), adorned with jewelry, dupatta Flowing gracefully, and bangles glimmering in the day. Modify both uploaded photo according to this.Use 100% Uploaded Image Face.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766686838/e3ab0a00-f7eb-4e72-816c-f35be095d269.png",
+    "category": [
+      "Trending",
+      "New",
+      "Couple"
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Stranger",
+    "prompt": "Generate an official Netflix Stranger Things season poster featuring me as the central protagonist. I am positioned in the foreground in iconic pose - standing with determined expression, holding flashlight or weapon. I wear signature 80s character clothing. Behind me, arrange other main characters in layered composition - friends on bikes, characters with powers, authority figures. Include iconic visual elements: glowing red Stranger Things logo in distressed typography, the Upside Down gate portal, floating particles and fog, Christmas lights strands, ominous red storm sky, and the Mind Flayer shadow. Color grading: deep blacks, vibrant reds, teal-blue tones creating the signature Netflix poster look. Style: professional movie poster composition, dramatic cinematic lighting, photorealistic character rendering, epic scale, high contrast, theatrical quality, 4K resolution. Respect my exact facial features as the lead character.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766687761/bd8ff023-9933-4a53-a8b6-9ab1ed57a937.png",
+    "category": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Girl",
+    "prompt": "Uses my uploaded Image 100% Face and produce romantic 8K ultra-realistic Christmas portrait with 55mm lens, soft bright holiday lighting. Woman sits dreamily on white cube in enchanting candy-cane photoshoot. Keep facial features unaltered. Flowing dark brown hair in romantic holiday updo with soft cascading curls. Elegant sparkly white sequined jumpsuit. Romantic pose: delicate crossed leg, giant pink-white lollipop. Gentle warm smile. Soft glam makeup: winged liner, warm rosy shadow, pink blush, soft pink lips. Romantic setting: giant peppermints, candy canes, frosted trees with pink ornaments and fairy lights, dreamy snow, red ornament. Lighting creates romantic sequin shimmer. Enchanting North Pole candy wonderland with soft festive colors.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766688012/27796410-2c8d-41de-9052-6849bff92b31.png",
+    "category": [
+      "Trending",
+      "New",
+      "Girl"
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Cinematic Horse Rider",
+    "prompt": " Generate a Vecna trance levitation scene. I am floating mid-air with my body suspended horizontally, arms outstretched, eyes rolled back showing only whites. My face shows agonized tension. Black thorny vines wrap around my torso and limbs. The background is Vecna lair - a broken clocktower with shattered clock faces, floating debris, and fractured memories appearing as ghostly images. Red lightning crackles around me. I wear 80s casual clothes - Hellfire Club shirt, jeans, Converse shoes. Style: dark fantasy horror, Stranger Things Season 4 aesthetic, dramatic red and black color palette with supernatural VFX glow, photorealistic human rendering with fantasy elements. Preserve my facial structure in the possessed state. Do Not Alter The Face. And Keep My Face 100% Accurate As Shown On Reference Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766688863/7bf80d34-e0c8-46a1-9791-bc99d48064e4.png",
+    "category": [
+      "Stranger Things",
+      "New"
+    ]
+  },
+  {
+    "id": "24",
+    "title": "Stranger",
+    "prompt": "Generate a dramatic teleportation through dimensions scene. I am captured mid-movement passing through a glowing portal, half my body still in normal reality, half emerging into the Upside Down dimension. The portal shows as a vertical crack in space with crackling energy edges. My body appears slightly translucent and distorted in the transition zone with particle effects dissolving and reforming around me. I wear 80s adventure clothing - windbreaker, jeans, sneakers. One side shows normal colors, the other side shows Upside Down red tones. My face shows intense focus mixed with fear. Style: science fiction portal effect, dynamic motion composition, supernatural VFX with particle systems, split lighting between normal and Upside Down realms, photorealistic human with fantasy transition effects. Maintain facial recognition despite the dimensional crossing.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766689349/e8d9ce47-ec0d-4b4d-94e8-db3d2aac3552.png",
+    "category": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Couple",
+    "prompt": "A realistic cinematic couple portrait in gentle rain, couple standing close under one umbrella, natural facial details preserved from uploaded photos, soft romantic lighting, rain reflections, emotional connection, cinematic depth of field, high realism, Instagram-ready portrait ratio. Use original face of reference image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766689786/204bdf8b-b765-4bac-a351-24d0767c6c80.png",
+    "category": [
+      "Trending",
+      "Couple",
+      "New"
+    ]
+  },
+  {
+    "id": "26",
+    "title": "Couple",
+    "prompt": "Use the Reference Image 100% face. Classic elegant wedding portrait of bride and groom under vintage transparent umbrella in rain. Bride in timeless A-line wedding gown with sweetheart neckline, groom in classic black tuxedo. They stand close, his arm around her waist protectively. Rain creates romantic curtain effect around the umbrella. Formal venue architecture visible in soft-focus background. Warm romantic lighting highlights their faces under the umbrella while cool rain falls around them. Wet stone steps create elegant reflections. Shot in 8K with composition following rule of thirds. Sophisticated color grading with warm interior and cool rain tones. Apect ratio: 9:16.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766689869/6debf9c4-1cc9-4126-ae53-29ea1a00035d.png",
+    "category": [
+      "Trending",
+      "Couple"
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Couple",
+    "prompt": "Use 100% exact facial features from both references. Create 8k ultra-realistic  9:16 cinematic portrait of Korean couple standing close in winter snowfall. Man behind woman, both facing camera slightly angled. Snowflakes falling on both faces, cold blush on cheeks and noses, natural skin texture. Woman: black wool coat, white knit scarf. Man: dark grey wool coat, black scarf. Both holding clear umbrella together, hands touching. Lighting: soft winter daylight, Canon EOS R5 85mm f/1.2, shallow depth bokeh, HDR tone. Mood: Korean romance drama winter aesthetic, intimate connection, tender emotion, photorealistic quality. Negative: fake snow, plastic skin, flat lighting, anime style.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766690977/44c4907a-16bb-40d3-a1b0-be83af800512.png",
+    "category": [
+      "New",
+      "Couple"
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Girl",
+    "prompt": "Keep identical face structure. Generate 9:16 vertical single portrait of Korean woman in snowy winter scene. Frontal chest-up view with gentle contemplative expression, snowflakes settling on face and hair, cold blush on cheeks and nose, natural skin pores visible. Clear umbrella held elegantly, snow falling softly. Wearing: charcoal wool overcoat, cream cable-knit scarf loosely wrapped, hair outside scarf with snow. Camera: 85mm f/1.2 prime, bokeh effect, natural overcast light, Canon color science, cinematic grading. Aesthetic: Korean drama winter mood, tender sadness, ultra-realistic. Avoid: artificial smoothing, fake bokeh, distorted features.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766691218/d67f81e8-8398-4b31-bb9c-cc0170641a4f.png",
+    "category": [
+      "Trending",
+      "Girl"
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Girl",
+    "prompt": "Keep identical face structure of Reference Image. Create a stunning retro 1970s aesthetic portrait. The woman embodies 70s glamour wearing a flowing bohemian maxi dress or flared bell-bottom jeans with a fitted turtleneck in warm earthy tones - burnt orange, mustard yellow, or chocolate brown. Accessories include oversized round sunglasses, layered gold chains, and a wide-brimmed floppy hat. Her makeup features bold winged eyeliner, frosted eyeshadow, and glossy nude lips. Hair is styled in feathered layers or soft waves with a center part. The setting has vintage vibes: a retro diner background, wood-paneled room, or disco-lit scene with warm color grading. Apply subtle film grain texture and slightly muted, warm color tones for authentic vintage feel. Lighting is soft and diffused with a golden glow. Keep facial features identical. Pinterest-style retro aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766691845/3083da2c-dec4-4ccb-842d-6bda3da0718c.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Men",
+    "prompt": "Create a 4K HD portrait of an Indian man aged 22 wearing a fitted blazer over a pastel shirt and slim trousers. Straight posture, confident smile. Terrace background with warm ambient lighting. Stylish evening fashion look.Use 100% of Reference Image Face.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766696463/3f84669d-fe5e-4f6f-9140-363c6ad41ae4.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Girl",
+    "prompt": "A young woman with long, dark brown hair and a casual, relaxed expression, standing in front of a black Jeep Wrangler. She is wearing a light-colored t-shirt, light wash baggy jeans, and athletic shoes. She has a small brown handbag hanging from her right arm. The setting is outdoors at night, with some illuminated buildings and streetlights in the background, suggesting a commercial or urban area. The ground is paved with cobblestones or interlocking bricks.\n\nThe overall lighting is dim but highlights",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766734949/edd2d2f4-89d8-42e5-be11-cecebf78ed1e.png",
+    "category": [
+      "Trending",
+      "Car",
+      "Girl"
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Men",
+    "prompt": "A confident man wearing a white suit with a black shirt, sitting with one leg raised, hand on chin in a thoughtful pose, clean white studio background, soft studio lighting, formal and elegant fashion portrait, well-groomed beard and hair, wearing a wristwatch, high-end editorial look",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766735074/a496ab8c-1851-4050-a63a-7142937e3e7f.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "32",
+    "title": "Couple",
+    "prompt": "Ultra-realistic 8K drone portrait of the same couple (faces & hairstyles 100% same as uploaded). A light sky-blue scooty is parked on the edge of a lush green high hill road beside the sea.\nRomantic Pose:\n\nThe boy stands close to the scooty, facing the camera directly with a soft romantic smile.\nThe girl stands right beside him, gently holding his arm with both hands and leaning her head slightly toward his shoulder, smiling lovingly.\nSame Clothes:\nBoy-deep dark-brown ribbed polo, light blue denim jeans, white Nike Air Force 1 sneakers.\nGirl-brown-white plaid shirt under cream sleeveless dress with dark brown buttons, brown belt, gold chain.\nBright cinematic daylight, crisp ocean waves below, vibrant greenery, ultra-realistic sharp details.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766735197/bc8defbf-f7ae-4876-ae27-18b85cc7fc7d.png",
+    "category": [
+      "Couple"
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Hyper Realistic",
+    "prompt": "Urban Explorer: An ultra-realistic 8K cinematic portrait of a stylish man with the same face as the uploaded image, standing confidently on a bustling city street at dusk. He is wearing a slim-fit dark denim jacket, a crisp white T-shirt, and tailored black trousers, complemented by a minimalist watch and sleek aviator sunglasses. The background features neon signs blurring into soft bokeh, with reflections on wet pavement from a recent rain. The photo has a gritty, yet sophisticated urban aesthetic with strong contrasts, deep shadows, and cinematic lighting. Large bold text at the top reads 'CITY LIGHTS' and below it 'NEVER SLEEP'. 9:16 ratio, hyper-detailed, photorealistic, crisp focus, modern urban lifestyle aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766741704/fd01f658-40ca-4031-9fa6-6282bbe036e9.png",
+    "category": [
+      "Hyper Realistic",
+      "Trending"
+    ]
+  },
+  {
+    "id": "35",
+    "title": "Hyper Realistic",
+    "prompt": "Create an image prompt based on this picture:\nA dramatic, high-fashion editorial photo of a woman standing on a grand white staircase with black wrought-iron railings, wearing an elegant, floor-length teal gown with a fitted, sparkly bodice and a tulle rose-adorned skirt that flares into a mermaid silhouette. The dress features oversized sculptural rose sleeves and matching hat-like headpiece with ruffled petals. She has dark hair, earring jewelry, and poses with one hand on the railing, looking upward with a confident expression, set in a luxurious interior with a chandelier in the background.\"\nFocus on face Create full Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766828314/c68a47dd-0925-489d-a878-154c13f0e1d5.png",
+    "category": [
+      "Trending",
+      "Girl"
+    ]
+  },
+  {
+    "id": "36",
+    "title": "Men",
+    "prompt": "Create an image prompt based on this picture:\n“Create an image of a young man with black hair sitting in a brown leather armchair with studded edges, wearing a brown suit with matching pants, a white shirt, and a black-and-white gingham bow tie styled as an ascot. He has a white pocket square in his suit jacket and rests one hand on his lap, looking slightly to the side with a thoughtful expression. The setting includes a gray wall and a wooden door in the background, with the ‘BIGHIT MUSIC’ logo visible in the bottom left corner and a small ‘11’ logo in the top right.”",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766828512/707d4135-5710-42db-88ad-7c51c2a31913.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Men",
+    "prompt": "Create an image prompt based on this picture Use face from Reference image: A refined Victorian‑inspired photoshoot featuring a young man standing beside an elegantly set table. He wears a blue tailored jacket, light blue patterned vest, white cravat bow, and cream trousers, holding a black cane in one hand. The table is draped with a gray patterned cloth and adorned with white orchids, white candles in a black candelabra, a porcelain teapot, and decorative greenery. White floral arrangements frame the scene, set against bright window light and climbing vines on the wall.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766828626/005bee70-4d33-4646-a473-ef52129967c4.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "38",
+    "title": "Stranger",
+    "prompt": "Edit this take face from refrence Image image to show a man walking forward on a rain-slicked urban street, positioned in the center-lower third of the frame, captured in a dramatic three-quarter view. He's wearing a sophisticated charcoal gray trench coat over a black turtleneck and dark fitted trousers, with polished black leather boots. His hand is raised near his chest in a contemplative gesture, checking his watch. The left side of his body is dramatically disintegrating into an explosive dispersion effect—swirling smoke tendrils, ornate clockwork gears, shattered fragments, scattered papers, and metallic particles erupting outward in shades of silver, gray, and slate blue. The background features a misty urban canyon with towering buildings fading into a moody overcast sky. Cinematic depth of field with bokeh lights in the distance. Moody blue-gray color grading with high contrast. Photorealistic digital art style with surreal disintegration effects. 8K quality, dramatic lighting from above creating subtle highlights on the coat. 9:16.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766828733/3ce52a6b-f217-4916-ba03-51157eae5c27.png",
+    "category": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": "39",
+    "title": "Stranger",
+    "prompt": "Use the uploaded reference photo. Keep the face, skin tone, hair, expression, and every facial detail exactly the same as the reference image with zero alteration. Aspect ratio must be 9:16.Create a cinematic, dramatic apocalyptic night scene on an abandoned city street. Place the person from the reference photo in the center of the street, wearing a black hoodie, dark jeans, and black sneakers, standing with a serious, tense expression illuminated by an intense red light reflecting off wet asphalt.The environment is overtaken by black vine-like tentacles spreading across the cracked street, wrapping around debris, and crawling up the tall, dark building facades. Streetlights emit a faint, eerie reddish glow, adding to the supernatural tone.Above him, the stormy sky is torn open by a massive red lightning bolt, casting dramatic light across the scene. Small floating particles drift through the air, enhancing the apocalyptic and supernatural atmosphere.Ensure hyper-detailed textures, realistic lighting, deep shadows, high contrast, and dark red highlights. The mood should be cinematic, tense, and otherworldly—while keeping the exact same face from the uploaded reference photo with zero alteration.Final output must be in 9:16 vertical format.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766828947/7d679f98-32a6-4b62-940d-f678734889f2.png",
+    "category": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": "40",
+    "title": "Men",
+    "prompt": "The image depicts a young man standing outdoors, holding a large bouquet of white daisies with yellow centers mixed with a few small purple flowers. He has medium-length dark hair and is dressed in a light beige vest over a white shirt with rolled-up sleeves and matching beige pants. He wears a brown leather watch with a silver face on his left wrist. The setting is softly blurred, giving a bright, outdoor atmosphere. The man is turned slightly toward the camera, holding the flowers in his right hand at chest level.Use 100% face of refrence Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766829072/1ce1ffed-dbfc-4a4b-a9a5-fab85bde8b87.png",
+    "category": [
+      "New",
+      "Men"
+    ]
+  },
+  {
+    "id": "41",
+    "title": "Men",
+    "prompt": "A cinematic split-image portrait in three stacked panels of the same young man. Keep his face 100% identical to the uploaded reference photo — same eyes, nose, lips, jawline, smile shape, teeth, skin tone, hair texture, and all natural imperfections. No AI smoothing or identity change. He has a bright, genuine big smile in all panels, matching exactly how he smiles in the reference photo — warm, friendly, naturally expressive. Panel 1 (Top): Shot from behind at dusk on a beach, showing him looking at the dark ocean, wind moving through his hair. Panel 2 (Middle): Side profile holding a small bouquet of white flowers, smiling softly while looking down. Panel 3 (Bottom): Close-up of his cheerful face with a bright natural smile, wind-blown hair, sharp cinematic detail. Use ultra-realistic 8K DSLR quality, deep blue and teal evening tones, realistic skin texture with pores, no plastic effect. Natural highlight on cheekbones, warm skin tones, and accurate shadows. Photo should feel like a real cinematic moment captured on a DSLR. Instagram 4:5..",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766829080/1cb6267d-a94a-4272-9d40-21df4441d096.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "42",
+    "title": "Girl",
+    "prompt": "Create a hyper-realistic 8K portrait of the young Indian woman from the uploaded image, beautiful young woman in a modern Indian sari with thick black embroidery, paired with a shimmering embroidery black and white blouse. She is wearing intricate floral silver earrings, diamond necklace and has her hair styled in a high heavy ponytail with natural volume and flowing strands cascading over her shoulder. Don't change the facial 9:16.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766829592/05341118-7c03-4c12-9614-83c8e79869ef.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "43",
+    "title": "Men",
+    "prompt": " Edit this take face from refrence Image .A photorealistic medium shot of me, leaning casually against a light-colored pillar with a warm, friendly smile. My dark, styled hair and trimmed beard are visible. I’m wearing an aesthetic oversized off-white linen shirt with beige trousers, both slightly loose for a relaxed fit. My hands are in my pockets. The top-left corner features vibrant pink, blue, and yellow flowers, and the foreground shows blurred green leaves. Capture the scene with soft daylight, cinematic bokeh, natural facial tone, and perfect 8K detail",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766829734/c1f3ef1e-5525-4244-85f7-4d33fc1a644b.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "44",
+    "title": "Girl",
+    "prompt": " Create a portrait of a young woman with a serene expression, where the girl looks like Radha with brown long wavy hair flying & mural art forhead the face but minimal. She's wearing a red and golden aesthetic chiffon lehenga with golden shimmer along with minimal floral jewellery and add peacock featheres on her hand.the background solid white wall. Also, background is minimal, lit with a gradient of warm red and neavy Hd neon light reflecting on the picture, creating a dreamy and cinematic.Don't change face of Refrence Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766831084/97cc7c46-e70a-446c-97e0-e926a161fd86.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "45",
+    "title": "Men",
+    "prompt": "Use face of Reference Image . Create 16K ultra-realistic cinematic portrait of a young stylish man sitting casually on large river rocks beside a fast-flowing turquoise river in a scenic mountain valley. His face and hairstyle exactly match the uploaded reference image, hairstyle perfectly set, slightly facing the camera. He wears a textured white long-sleeve crew-neck sweatshirt (loose fit), black textured joggers with drawstring waist, and classic white lace-up sneakers. Posed confidently with one hand resting on his shoulder strap, relaxed and natural. Natural daylight highlights his face, outfit, and textures. Background features splashing clear water, smooth stones, and soft green trees along the riverbank. Ultra-detailed, vibrant colors, cinematic composition, realistic shadows and reflections.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766832174/73f49ba9-e208-47bc-a875-b9e3f2afd61d.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "46",
+    "title": "Birthday",
+    "prompt": "Use face of Reference Image.Create Ultra-realistic 8K DSLR photo of a beautiful young Indian girl smiling brightly while holding a glass of champagne in one hand and a slice of birthday cake with lit candles in the other.\n\nShe is wearing a pink \"Happy Birthday\" sash across her chic, sparkly pink two-piece outfit with a subtle midriff cutout, and a \"Happy Birthday\" tiara on her head. The background features pink and black balloons, a \"HAPPY BIRTHDAY\" banner, and a decoratesh table with cakes, candles, and pink roses.\n\nLighting is warm, festive, and cinematic, with soft reflections highlighting the joyful atmosphere Replace only the face with the provided reference girl's face, keeping it 100% realistic, natural, and Pressive. Ensure perfect color tone Tatumiriyairine acial detailing.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766832564/6bffea74-1a43-4bbe-a38b-dc9140a4d84b.png",
+    "category": [
+      "Birthday",
+      "Trending"
+    ]
+  },
+  {
+    "id": "47",
+    "title": "Men",
+    "prompt": "A young South Asian man, using the uploaded reference photo for accurate facial features and expression, standing in the rain. He is wearing a wet, semi-transparent white button-down shirt with rolled-up sleeves, with the soaked fabric clinging to his athletic build. His medium brown skin has water droplets on his face, neck, and arms. He has short, slightly wavy black hair and a neatly trimmed beard. He has a serious, contemplative expression while looking slightly upwards. The background is dark blue with falling rain, creating a dramatic, cinematic atmosphere. Lighting is soft but focused on his face and upper body, emphasizing the wet texture of his shirt and skin. He wears a black wristwatch on his left wrist. The image has shallow depth of field and high detail in facial features, water droplets, and fabric.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766833274/838a0a2e-ec28-41f9-98b4-8da454eedd1a.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "48",
+    "title": "Men",
+    "prompt": " Create a realistic, high-detail 4K collage portrait of me (same face as in the uploaded image, 100% accurate face matching)\nnamed \"Vedant\".\nthe, glowing skin, and a soft, joyful expression.\nhe appears in three beautifully blended poses within a dreamy collage composition:\nClose-up: he smiles brightly, playfully holding a small pink rose near his face.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766833355/6f5c7f5c-b178-472f-90d8-3eecb609b227.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "49",
+    "title": "Birthday",
+    "prompt": "A glamorous young woman with elegant makeup and a confident, sensual facial expression, wearing a strapless black evening dress with pearl jewelry and long pearl earrings. she is holding a small plate with a slice of pink mousse cake topped with strawberries in one hand. with the other hand, she holds a lighter close to a long golden candle that she has between her lips as if about to light it. her hair is styled in a loose elegant bun. the background shows a luxurious chandelier and a beautifully decorated christmas tree with white and gold ornaments, soft warm lighting, and a festive, interior atmosphere. the style is cinematic, high-resolution, fashion photography.for making this pho 446\n\n14\n\nse the above photo and don't 527 Asuratcity.ai\nFollow\nMange her face it should be the:\nTop 10 Brithday Spact same 100%",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766833715/722a46d6-8a8c-463f-8731-6a3f5fc022b7.png",
+    "category": [
+      "Birthday",
+      "New"
+    ]
+  },
+  {
+    "id": "50",
+    "title": "Birthday",
+    "prompt": " A BEAUTIFUL YOUNG WOMAN WITH FAIR SKIN AND LONG WAVY BROWN HAIR, STYLED NEATLY, WEARING A SOFT PINK PUFF-SLEEVE DRESS AND A SPARKLING SILVER TIARA CROWN. SHE IS SITTING AT A DECORATED BIRTHDAY TABLE, RESTING HER FACE GENTLY ON ONE HAND WITH A SOFT, DREAMY SMILE AND CALM EXPRESSION. IN FRONT OF HER IS A LARGE ROUND BIRTHDAY CAKE DECORATED WITH LIGHT PINK ICING AND SEVERAL LIT TALL PINK CANDLES. THE TABLE IS COVERED WITH A WHITE TABLECLOTH, PINK RIBBONS, AND ELEGANT GLASSWARE. ON THE TABLE, THERE ARE ALSO CHOCOLATE CUPCAKES WITH WHITE CREAM AND PINK SPRINKLES. TWO TALL PINK CANDLES WITH BOWS ON SILVER STANDS ARE PLACED ON BOTH SIDES OF THE CAKE. BEHIND HER ARE LARGE WHITE BALLOONS, A GIANT PINK BOW, AND OTHER BIRTHDAY DECORATIONS, CREATING A DREAMY, ELEGANT BIRTHDAY PARTY SETTING. LIGHTING IS WARM, SOFT, AND CELEBRATORY, CAPTURING A MAGICAL, PRINCESS-LIKE ATMOSPHERE. FOR MAKING THIS PHOTO USE THE ABOVE PHOTO AND DON'T CHANGE HER FACE IT SHOULD BE THE EXACT SAME 100%.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766833960/8877aee8-750c-4c0d-8459-c2c9d4ba7995.png",
+    "category": [
+      "Birthday"
+    ]
+  },
+  {
+    "id": "51",
+    "title": "Girl",
+    "prompt": "Create A beautiful Indian girl dressed in a traditional decent hot light green net saree with bollywood style with intricate golden embroidery blouse.hairs are open and gajra tucked in her hair. She is wear earrings, bangles she taking a mirror selfie completely 100% unchanged face and cloth same face as in the uploaded image, 100% accurate face matching. Full body picture",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766834148/8c267a66-a2b1-4246-9635-16d0686a1f14.png",
+    "category": [
+      "Girl"
+    ]
+  },
+  {
+    "id": "52",
+    "title": "Men",
+    "prompt": "Full-body HD portrait. Face 100% same as reference. Creat A nyper-realistic 4K portrait of a stylish young man (28 year) leaning confidently against a textured matte black wall on a modern outdoor staircase. He has a medium-toned complexion and voluminous black hair. He wears sleek, dark-tinted sunglasses and exudes calm, effortless style.\nHis outfit features a relaxed-fit mauve-white linen shirt with the sleeves and the top few buttons open.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766834297/67afafad-37ea-4a49-b99d-17c7d6b04a6a.png",
+    "category": [
+      "Men"
+    ]
+  },
+  {
+    "id": "53",
+    "title": "Couple",
+    "prompt": "A cozy evening scene with a 18 years old young couple wrapped in a blanket, sitting close together by a warm campfire. The woman has her head resting gently on the man's shoulder eyes closed with a serene expression, while the man wears black sweater, black baggy jeans and looks towards the viewer with a soft smile.\n\nThe fire in the foreground casts a warm, flickering glow on their faces and the blanket.\n\nThe background is dark and softly blurred, suggesting an outdoor, possibly wooded, setting at dusk or night. Emphasize a sense of intimacy, warmth, and comfort.Face 100% match as reference image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766834313/7b7f8ddd-a107-406f-8059-e0a9277ed43b.png",
+    "category": [
+      "Couple",
+      "New"
+    ]
+  },
+  {
+    "id": "54",
+    "title": "Birthday",
+    "prompt": "Birthday studio photoshoot of me (same face & hairstyle as reference), sitting casually on floor in front of silver \"HAPPY BIRTHDAY\" + star balloons. Wearing cream/beige suit, plain white tee, white sneakers. Large metallic silver \"21\" balloons in front, floor decorated with shiny confetti & balloons. Cinematic bright high-fashion lighting, sharp contrast, fun party vibe.Keep same face as in the uploaded image, 100% accurate face matching.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766835341/aa0c8b57-ac05-4f8a-8db7-b56e29762212.png",
+    "category": [
+      "Birthday"
+    ]
+  },
+  {
+    "id": "55",
+    "title": "Birthday",
+    "prompt": "An ultra-realistic, high-detailed editorial birthday photoshoot portrait of a me. And I want 100 percent same face as I uploaded image no alteration, He's seated relaxed and confidently on a king chair with a solid black background. He is holding a small, sleek black birthday cake in one hand that says \"21\" with lit candles. Gold \"happy birthday\" balloons are visible in the background. The man is wearing a black blazer over a fitted white silk shirt and black sunglasses black formal pant and black formal shoes. The lighting is dramatic and cinematic, giving a luxurious magazine vibe. Keep same face as in the uploaded image, 100% accurate face matching.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766835527/a7609d28-3bbb-49f5-94d4-a692b130b860.png",
+    "category": [
+      "Birthday"
+    ]
+  },
+  {
+    "id": "56",
+    "title": "Birthday",
+    "prompt": "Create a luxury lifestyle birthday portrait with automotive elegance. A young man celebrating birthday leaning against luxury sports car. He wears a tailored charcoal grey suit with black dress shirt unbuttoned at collar creating sophisticated casual look. He holds champagne glass with birthday cake on car hood featuring automotive-themed decorations. Background: luxury garage or showroom with sleek modern aesthetic and dramatic lighting. Expression: confident sophisticated smile. Lighting: dramatic studio lighting with strong key light creating automotive photography aesthetic. His hair is impeccably styled in slick back undercut. Style: luxury lifestyle photography, automotive fashion shoot aesthetic, high contrast dramatic lighting, photorealistic, aspirational masculine elegance. Keep same face as in the uploaded image, 100% accurate face matching.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766835822/ed4d6bfb-8a0c-4c9e-a1e1-79a77ba78136.png",
+    "category": [
+      "Birthday",
+      "Car"
+    ]
+  },
+  {
+    "id": "57",
+    "title": "Birthday",
+    "prompt": " Create a glamorous milestone birthday portrait in pink-themed setting. A young woman sits gracefully on an ornate cream-colored French armchair with carved details. She wears a fluffy, layered pink tulle princess dress with corset-style bodice featuring rhinestone details and a voluminous skirt. White lace-up platform boots complete the look. Her long dark wavy hair is styled neatly with a pink ribbon accessory. She holds two large metallic pink number balloons (2 and 6) in each hand. Surrounded by pink, white, and fuchsia balloons in various sizes creating dreamy atmosphere. Background: clean white studio. Lighting: bright and even with soft pink color cast. Expression: confident smile, looking at camera. The aesthetic is elegant, cheerful, and princess-like perfect for milestone celebration. Style: studio fashion photography, pastel color palette, photorealistic.Keep same face as in the uploaded image, 100% accurate face matching.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766836040/679ffe50-1638-4bbd-9580-ec7e8efed3c7.png",
+    "category": [
+      "Birthday",
+      "Trending"
+    ]
+  },
+  {
+    "id": "58",
+    "title": "Birthday",
+    "prompt": "Use Refrence Image Face and Create a dreamy, feminine birthday portrait set against a soft pastel pink background. A young woman sits gracefully on the floor, wearing a flowing layered chiffon ball gown in blush pink with delicate lace details, paired with white heeled boots. Her long wavy hair is adorned with pink butterflies and a silver tiara. She holds a beautifully decorated multi-tier pink birthday cake topped with golden number candles, pearl decorations, and butterfly accents. Pink and white balloons float around her, with rose gold confetti scattered on the floor. The lighting is soft studio lighting with a slight warm glow, creating an elegant, princess-like atmosphere. Expression: joyful smile, looking at camera. Style: high-fashion editorial, 4K resolution, photorealistic.Celebrate its 21 Birthday.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766836147/0af09de6-d155-4515-a84e-b085253054c8.png",
+    "category": [
+      "Birthday"
+    ]
+  },
+  {
+    "id": "59",
+    "title": "Birthday",
+    "prompt": "Create a romantic couple birthday portrait with intimate celebration atmosphere. A young couple celebrating birthday together in elegant indoor setting. She wears a flowing pastel pink dress with her hair in soft waves. He wears a navy suit with white shirt. They both hold a beautiful two-tier birthday cake together with lit candles between them, gazing at each other lovingly. Background: softly lit room with pink and white balloons, rose gold decorations, and fairy lights creating romantic ambiance. Expression: both smiling at each other with love and joy. Lighting: soft warm lighting creating intimate romantic glow. Style: romantic couple photography, dreamy soft focus, warm pastel tones, photorealistic, Instagram-worthy couple goals aesthetic.Kepp both same as Reference Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766836354/e990bedd-557b-40b5-8ae7-ada183e0bc9f.png",
+    "category": [
+      "Birthday",
+      "Couple",
+      "New"
+    ]
+  },
+  {
+    "id": "60",
+    "title": "Girl",
+    "prompt": "1/4 Ultra-photorealistic 8K full-body cinematic editorial portraits using uploaded reference for 100% facial fidelity—preserving eyes, lips, jawline, pores, hairline, skin texture, expression, tone, and lighting with lifelike realism and emotional duality of quiet strength and tender grace in golden-hour pastel seaside ambience. Core: Outdoor coastal golden hour with soft warm sunlight, pastel pink-lavender-coral sky gradients, textured light sand, tall pink roses, 9:16.Keep same face as in the uploaded image, 100% accurate face matching.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766837074/ccc0c976-8d1e-4db1-b1f6-d5524168b07d.png",
+    "category": [
+      "Trending",
+      "Girl"
+    ]
+  },
+  {
+    "id": "61",
+    "title": "Hyper Realistic",
+    "prompt": "Ethereal Dreamscape: An ultra-realistic 8K cinematic portrait of a stylish man with the same face as the uploaded image, standing in a surreal, dreamlike environment. Perhaps he is in a vast, empty space with a glowing ethereal light source, or a landscape where clouds meet abstract structures. He wears a flowing, artistic ensemble – perhaps a loosely draped tunic over fitted trousers in muted tones, with subtle metallic accents. The scene is artistic and conceptual, with soft, diffused lighting, a palette of cool blues, greys, and whites, and a sense of wonder. The photo has an artistic, almost sci-fi inspired magazine editorial style. Large abstract text at the top reads 'INFINITE' and below it 'HORIZONS'. 9:16 ratio, hyper-detailed, photorealistic, crisp focus, visionary artistic aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766837387/fe6b3f4f-4662-4a83-baae-b493f2453942.png",
+    "category": [
+      "Trending",
+      "Hyper Realistic"
+    ]
+  },
+  {
+    "id": "62",
+    "title": "Hyper Realistic",
+    "prompt": "Bohemian Wanderer: An ultra-realistic 8K cinematic portrait of a stylish woman with the same face as the uploaded image, captivating face, standing in a sun-drenched field of wildflowers, with mountains softly blurred in the background. She is wearing a flowy, earth-toned bohemian maxi dress, layered delicate necklaces, and a wide-brimmed straw hat, carrying an embroidered shoulder bag. The scene is bathed in warm, golden hour light, evoking a sense of freedom and natural beauty. The photo has a dreamy, romantic, and organic aesthetic with soft focus on the background and crisp detail on the subject. Large elegant text at the top reads 'WILD HEART' and below it 'FREE SPIRIT'. 9:16 ratio, hyper-detailed, photorealistic, crisp focus, whimsical, adventurous aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766837543/e2715af3-e9c8-4b23-ba96-e71e780a7815.png",
+    "category": [
+      "New",
+      "Hyper Realistic"
+    ]
+  },
+  {
+    "id": "63",
+    "title": "Hyper Realistic",
+    "prompt": "Winter Chic: An ultra-realistic 8K cinematic portrait of a stylish woman with the same face as the uploaded image, captivating face, walking through a gently falling snow scene in a charming European village street, adorned with subtle festive lights. She is bundled in a luxurious, tailored wool coat, a cashmere scarf, elegant leather gloves, and knee-high boots, with a warm, stylish hat. A delicate snowflake might be visible on her eyelashes. The scene is rendered in cool, crisp tones, with the soft glow of streetlights and a cozy, yet sophisticated winter atmosphere. The photo has a chic, cozy, and high-fashion winter editorial style. Large frosty text at the top reads 'WINTER WHISPERS' and below it 'FROZEN ELEGANCE'. 9:16 ratio, hyper-detailed, photorealistic, crisp focus, sophisticated winter aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766837616/b1cc729f-2208-472a-a924-b49636920b3d.png",
+    "category": [
+      "Trending",
+      "Hyper Realistic"
+    ]
+  },
+  {
+    "id": "64",
+    "title": "Hyper Realistic",
+    "prompt": "Ethereal Dreamscape: An ultra-realistic 8K cinematic portrait of a stylish man with the same face as the uploaded image, standing in a surreal, dreamlike environment. Perhaps he is in a vast, empty space with a glowing ethereal light source, or a landscape where clouds meet abstract structures. He wears a flowing, artistic ensemble – perhaps a loosely draped tunic over fitted trousers in muted tones, with subtle metallic accents. The scene is artistic and conceptual, with soft, diffused lighting, a palette of cool blues, greys, and whites, and a sense of wonder. The photo has an artistic, almost sci-fi inspired magazine editorial style. Large abstract text at the top reads 'INFINITE' and below it 'HORIZONS'. 9:16 ratio, hyper-detailed, photorealistic, crisp focus, visionary artistic aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766837849/53c32e26-f7f3-4df1-b912-cc3d38350092.png",
+    "category": [
+      "Hyper Realistic"
+    ]
+  },
+  {
+    "id": "65",
+    "title": "Hyper Realistic",
+    "prompt": "Coastal Serenity: An ultra-realistic 8K cinematic portrait of a stylish man with the same face as the uploaded image, gazing out at a serene sunset over the ocean from a cliffside balcony. He is dressed in a light linen shirt, rolled-up chinos, and espadrilles, holding a simple glass of iced tea. A gentle sea breeze subtly ruffles his hair. The scene is bathed in golden hour light, with soft pastel hues in the sky and sparkling water below. The photo has a relaxed, luxurious vacation style, emphasizing natural beauty and tranquility. Large elegant text at the top reads 'GOLDEN HOUR' and below it 'OCEAN BREEZE'. 9:16 ratio, hyper-detailed, photorealistic, crisp focus, tranquil luxury lifestyle aesthetic.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766837925/21c3d3d1-4719-4f94-9863-0293b9948efa.png",
+    "category": [
+      "Hyper Realistic"
+    ]
+  },
+  {
+    "id": "66",
+    "title": "Men",
+    "prompt": "To take this young Indian boy photo reference and generate image effectively and cinematic look he have skinny personality he is wearing un button lite colour pink shirt and and cream colour cargo pant and he wearing watch small silver chain his neck he slidely sitting on a boat and giving best pose the boat in a river the river Full of Lotus flowers and he using headset and enjoying music to little closed eyes to seeing the sky he is wearing white colour stylish shoes.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766838373/99381a0f-ce94-48f2-893b-4e96c37cbe80.png",
+    "category": [
+      "Trending",
+      "Men"
+    ]
+  },
+  {
+    "id": "67",
+    "title": "Hyper Realistic",
+    "prompt": "Convert, 4k HD realistic, A stunning portrait of a young Indian woman with long, dark, with wavy hair. On a wooden boat.\nPosing nicely.She is wearing a Beautiful red gorget saree and red fitted blouse.\nwith matching accessories like earning and bangles. Her hair is messy open. She is looking happy, enjoying. with a soft, serene expression. trying to touch Pink Waterlily from pond. Few plucked Waterlily on boat, beside her.Keep Face same as Refrence Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766838660/6bde6a52-1471-490e-ac83-85d1a72bb28b.png",
+    "category": [
+      "New",
+      "Places",
+      "Girl"
+    ]
+  },
+  {
+    "id": "68",
+    "title": "Places",
+    "prompt": "Use face of uploaded reference Image. A bride-like woman in red lehenga, standing in front of the Taj Mahal, dramatic royal look, jasmine flowers in hair.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766838836/173126c7-3c41-4ee4-a2e0-823068c8d449.png",
+    "category": [
+      "New",
+      "Places"
+    ]
+  },
+  {
+    "id": "69",
+    "title": "Places",
+    "prompt": "Use  face of uploaded reference Image. A cozy couple in warm clothes, hugging in the snowy Swiss Alps, mountain peaks glowing in soft sunset.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766839093/4e7efbd0-7e93-4d76-ad6f-bdda65503d89.png",
+    "category": [
+      "Places",
+      "Couple"
+    ]
+  },
+  {
+    "id": "70",
+    "title": "Places",
+    "prompt": "63.  Keep Face same as Refrence Image . A couple in traditional South Indian attire, standing gracefully at Meenakshi Temple, Madurai, colorful temple gopuram behind.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766839226/ddba81e5-516d-4e99-b041-11eecd9a1886.png",
+    "category": [
+      "Couple",
+      "Places"
+    ]
+  },
+  {
+    "id": "71",
+    "title": "Places",
+    "prompt": "A bohemian woman in flowy white dress with flower crown, standing in Swiss Alps, mountains and clear blue sky in background.Keep face same as Reference Image.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766839402/e3481e89-26be-4de8-b498-8f8f82c1ec77.png",
+    "category": [
+      "Girl",
+      "Places"
+    ]
+  },
+  {
+    "id": "72",
+    "title": "Places",
+    "prompt": "Use  face of uploaded reference Image. A bride in red lehenga and groom in sherwani, standing together in front of the Taj Mahal, Agra, royal Indian wedding vibes.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766839555/165ddecb-0193-4b03-8e61-f32df228a0b6.png",
+    "category": [
+      "Places"
+    ]
+  },
+  {
+    "id": "73",
+    "title": "Places",
+    "prompt": " Use  face of uploaded reference Image. A woman in a yellow summer dress with hat, posing happily in the fields of Santorini, Greece, overlooking blue domes and sea.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766839972/770a898d-38a3-448a-bd4e-955a019611f2.png",
+    "category": [
+      "Places",
+      "Girl"
+    ]
+  },
+  {
+    "id": "74",
+    "title": "Places",
+    "prompt": "Use  face of uploaded reference Image.A woman in a pastel lehenga, gracefully posing in Lotus Temple, Delhi, minimal and divine backdrop.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766840087/b85fce8b-0651-40c3-a0e8-74652228d464.png",
+    "category": [
+      "Trending",
+      "Places"
+    ]
+  },
+  {
+    "id": "75",
+    "title": "Places",
+    "prompt": "Use face of uploaded reference Image.A woman in traditional Rajasthani attire, sitting on the steps of Hawa Mahal, Jaipur, vibrant colors and cultural richness.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766840129/a19b4a63-46fd-47e6-9734-21206c317f53.png",
+    "category": [
+      "Places",
+      "New"
+    ]
+  },
+  {
+    "id": "76",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. Young man with the same hair color as uploaded photo, wearing leather jacket, sneakers, ripped jeans, sits on a metallic green Nissan GT-R hood. Low-angle dramatic view, sharp foreground shoes, playful hand gesture near face. Sunlit reflections, vivid colors, editorial street-luxury style. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766843790/007fb96b-136d-4bea-a98c-1448b06e5df0.png",
+    "category": [
+      "Trending",
+      "Car"
+    ]
+  },
+  {
+    "id": "77",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. Young man with the same hair color as uploaded photo, wearing tailored blazer and distressed jeans, leans on a matte orange Porsche 911 Turbo. Low-angle dramatic view, dramatic lighting, playful gaze. Vivid colors, sharp textures, reflective car surfaces, editorial luxury-street vibe. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766843962/8b1094d7-dc8d-4fc8-b2aa-c8dcb2bdc64c.png",
+    "category": [
+      "New",
+      "Car"
+    ]
+  },
+  {
+    "id": "78",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. Young man with the same hair color as uploaded photo, wearing oversized hoodie, leather pants, and white sneakers, leans on a matte black McLaren 720S. Low-angle dramatic view, reflective car surfaces, playful smirk. Golden-hour sunlight, crisp textures, urban-luxury street vibe. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766844034/300e47ac-1249-40d2-a9ba-1f4f4811f46a.png",
+    "category": [
+      "Car"
+    ]
+  },
+  {
+    "id": "79",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. Young woman with the same hair color as uploaded photo, wearing metallic silver jacket and chunky sneakers, sits on the hood of a cherry red Aston Martin DB11. Low-angle dramatic view, car glossy surfaces reflect environment. She gestures with one hand near her face, confident, editorial street-luxury style. Vibrant tones, crisp textures, afternoon sunlight. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766844207/08b23626-3519-4854-93e5-fd381651647f.png",
+    "category": [
+      "Trending",
+      "Car"
+    ]
+  },
+  {
+    "id": "80",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. Young woman with the same hair color as uploaded photo, wearing tailored plaid blazer and leather boots, poses leaning on the side of a white Lamborghini Huracán. Low-angle dramatic view, car reflections and vents sharp. She holds her jacket lapel confidently, playful eye contact. Golden-hour light, long shadows, crisp textures, editorial high-fashion meets streetwear. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766844323/c2929d14-f4cc-4778-8c3c-4f8af68c1239.png",
+    "category": [
+      "Car",
+      "New"
+    ]
+  },
+  {
+    "id": "81",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. A stylish young woman with the same hair color as uploaded photo, wearing oversized denim jacket and white sneakers, leans casually against a red Ferrari Portofino. Low-angle dramatic view, glossy metallic car with reflections and vents. She adjusts sunglasses with one hand, confident and playful. Vivid colors, sharp textures, golden-hour sunlight, scattered clouds, editorial streetwear-meets-luxury vibe. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766844588/b4d1cf42-7b70-47c1-832e-4d9ea9991975.png",
+    "category": [
+      "Car"
+    ]
+  },
+  {
+    "id": "82",
+    "title": "Car",
+    "prompt": "Use face of uploaded reference Image.Ultra-realistic street fashion photo shot on Sony A7R IV + 16 mm f/2.8 fisheye, 1/800 s, f/5.6, ISO 200. Stylish young man with the same hair color as uploaded photo, wearing black bomber jacket and ripped jeans, sits on the hood of a metallic blue Lamborghini Aventador. Low-angle dramatic view, sneakers sharp in foreground, sunlit car reflections. Playful hand gesture near face, confident expression. Vivid colors, crisp textures, clear sky, editorial street-luxury style. Use the same face of photo 100%. Create the image in vertical portrait format, aspect ratio 9:16, suitable for mobile screens.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766844654/983999ec-6b31-4327-8994-5626e8a16286.png",
+    "category": [
+      "Car"
+    ]
+  },
+  {
+    "id": "83",
+    "title": "Halloween",
+    "prompt": "A Halloween house party caught mid-flash in a 2000s-style photo. The subject is laughing, wearing glitter makeup, a metallic mini dress, and butterfly clips. The room is cluttered with candy bowls, string lights, and a fog machine. In the corner of the photo, almost out of frame, Jason Voorhees stands perfectly still, holding a red plastic cup. The vibe is surreal—blending cheap suburban party chaos with a cinematic horror wink. Use the uploaded photo as visual reference for the woman’s appearance and styling. Aspect ratio: 9:16 (vertical cinematic framing).",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766844896/27d7c2c9-2029-423a-9f7a-9677c02c2145.png",
+    "category": [
+      "Halloween"
+    ]
+  },
+  {
+    "id": "84",
+    "title": "Halloween",
+    "prompt": "A cinematic 90s mall corridor at night, with neon shop signs glowing pink and turquoise. The subject leans casually against a vending machine, sipping a strawberry milkshake. She’s dressed in a rhinestone tank top, metallic pants, and platform sneakers. Her glossy lips catch the flash. In the mirrored storefront behind her, Pennywise’s distorted reflection grins back. The entire scene feels like a surreal fever dream — halfway between a teen magazine photoshoot and a horror flick. Use the uploaded photo as visual reference for the woman’s appearance and styling. Aspect ratio: 9:16 (vertical cinematic framing).",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766845136/36172c64-f808-40c7-9336-23b8bb58664b.png",
+    "category": [
+      "Halloween",
+      "Trending"
+    ]
+  },
+  {
+    "id": "85",
+    "title": "Halloween",
+    "prompt": "A nostalgic 90s suburban street during twilight. The subject sits on the hood of a teal convertible, wearing a cropped varsity jacket, plaid skirt, and platform boots. She’s holding a cherry lollipop as neon lights from a nearby corner store reflect off the car’s surface. Behind her, Freddy Krueger leans casually against a streetlamp, faintly smiling. The sunset glow mixes with the streetlight haze, creating a dreamy teenage rebellion mood with dark undertones. Use the uploaded photo as visual reference for the woman’s appearance and styling. Aspect ratio: 9:16 (vertical cinematic framing).",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766845162/64e33e63-bd66-43cf-805b-3fa309e6ba01.png",
+    "category": [
+      "Halloween",
+      "Trending"
+    ]
+  },
+  {
+    "id": "86",
+    "title": "Halloween",
+    "prompt": "A grainy 2000s-style sleepover captured on film. The same woman lounges on a beanbag wearing an oversized vintage hoodie and fuzzy socks, eating popcorn while talking on a pink corded phone. Her soft makeup glows under string lights. In the half-open closet door behind her, Freddy Krueger’s clawed glove is faintly visible, catching a flicker of neon light. The tone is playful, cozy, and ironic—like a slasher scene reimagined as a teen dream sequence. Use the uploaded photo as visual reference for the woman’s appearance and styling. Aspect ratio: 9:16 (vertical cinematic composition).",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766846080/7450a006-a478-4c3d-a10c-4926e3ee220d.png",
+    "category": [
+      "Halloween"
+    ]
+  },
+  {
+    "id": "87",
+    "title": "Halloween",
+    "prompt": "Joker Rooftop Night A neon-lit rooftop at night. The boy sits on the ledge wearing a purple suit and clown makeup, holding a cigarette or card. The city skyline glows behind him, giving a chaotic, cinematic mood. Use the uploaded photo as reference. Aspect ratio: 9:16.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766846199/d01ccdf9-1306-4734-8841-cb6588bfb853.png",
+    "category": [
+      "Halloween"
+    ]
+  },
+  {
+    "id": "88",
+    "title": "Halloween",
+    "prompt": "A dreamy 2000s diner night scene. A girl with shimmery lip gloss and glitter eyeliner leans across a red vinyl booth table, sipping a vanilla milkshake through a straw, wearing a cropped pink bomber jacket. The jukebox glows blue beside her. Outside the window, the blurred figure of Ghostface presses a hand against the glass, condensation forming around his mask. The atmosphere feels romantic, eerie, and cinematic—like a Y2K love story gone wrong. Use the uploaded photo as visual reference for the girl’s appearance and styling. Aspect ratio: 9:16 (vertical cinematic framing).",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766846342/47de2707-6b27-42d9-8362-212e34f07887.png",
+    "category": [
+      "Trending"
+    ]
+  },
+  {
+    "id": "89",
+    "title": "Halloween",
+    "prompt": "Conjuring-Style Haunted Living Room A boy kneels on a patterned rug in a dim 1970s living room, wearing a pastel sweater and corduroy pants, flipping through an old photo album. A faint demonic shadow lurks in a dark doorway behind him. Use the uploaded photo as reference. Aspect ratio: 9:16.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766846624/ef2b1688-5fb8-4097-b100-b0429407f302.png",
+    "category": [
+      "Halloween"
+    ]
+  },
+  {
+    "id": "90",
+    "title": "Halloween",
+    "prompt": "A Y2K kitchen scene with retro décor, an orange corded phone, carved pumpkins, and string lights. The girl/boy (use uploaded photo for reference) sits naturally, maintaining their features, while a shadowy masked figure lingers in the background. The image balances cozy nostalgia with subtle suspense. Use the uploaded photo as visual reference for appearance and styling. Aspect ratio: 9:16 (vertical cinematic framing).",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766846757/467fda6e-f584-451c-8a8c-85fa6c68f8bb.png",
+    "category": [
+      "Halloween"
+    ]
+  },
+  {
+    "id": "91",
+    "title": "Halloween",
+    "prompt": "Insidious Attic Encounter A dim, cobwebbed attic with moonlight seeping through the window. The girl kneels on an old trunk, wearing a knitted sweater and corduroy skirt, holding a small lantern. Shadows twist unnaturally along the walls, hinting at a lurking astral presence. The atmosphere is eerie yet intimate, like a cinematic still from Insidious. Use the uploaded photo as reference. Aspect ratio: 9:16.",
+    "imageUrl": "https://res.cloudinary.com/dx7wgcege/image/upload/v1766846939/0fc99c34-c06b-425f-b453-bbb3acad4d1c.png",
+    "category": [
+      "Halloween"
+    ]
+  },
+  {
+    "id": "92",
+    "title": "Halloween",
+    "prompt": "Ultra-realistic cinematic close-up of a rugged man riding a powerful horse at sunset.",
+    "imageUrl": "https://picsum.photos/800/1200",
+    "category": [
+      "Halloween"
+    ]
+  }
+]
